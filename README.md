@@ -19,3 +19,6 @@ This project is a single-page website for our school, designed to provide inform
 - HTML5
 - CSS3 (including Flexbox or Grid for layout)
 - JavaScript (optional for interactivity)
+
+#Demo
+https://aarobhs087.github.io/School-Website/
